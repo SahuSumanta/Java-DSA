@@ -1,63 +1,44 @@
-import java.util.Scanner;
+class Solution {
+    public List<Integer> spiralOrder(int[][] matrix) {
+       int minr=0, minc=0, maxr=matrix.length-1, maxc=matrix[0].length-1;
 
-/**
- * SpiralMatrix
- */
-public class SpiralMatrix {
-
-    public static void main(String[] args) {
-        Scanner sc = new Scanner(System.in);
-
-        int rows = sc.nextInt();
-        int column = sc.nextInt();
-        int[][] arr = new int[rows][column];
-
-        for (int i = 0; i < arr.length; i++) {
-            for(int j = 0; j < arr.length; j++){
-                arr[i][j] = sc.nextInt();
+            int count=1;
+            List<Integer> Ans=new ArrayList<>();
+            
+            while(count <= matrix.length* matrix[0].length)
+            {
+            //Top wall
+            for(int j=minc, i=minr; j<=maxc && count<=matrix.length* matrix[0].length;j++)
+            {
+                Ans.add(matrix[i][j]);
+                count++;
             }
+            minr++;
+            // Right wall
+            for(int i=minr, j=maxc;i<=maxr && count<=matrix.length* matrix[0].length;i++)
+            {
+                Ans.add(matrix[i][j]);
+                count++;
+            }
+            maxc--;
+            //Bottom wall
+            for(int j=maxc, i=maxr; j>=minc && count<=matrix.length* matrix[0].length;j--)
+            {
+            Ans.add(matrix[i][j]);
+                count++;
+            }
+            maxr--;
+            
+            // Left wall
+                for(int i=maxr, j=minc;i>=minr && count<=matrix.length* matrix[0].length;i--)
+                {
+                    Ans.add(matrix[i][j]);
+                    count++;
+                }
+                minc++;
+                    
+            }
+                
+            return Ans;
         }
-        sc.close();
-        int minR = 0;
-        int minC = 0;
-        int maxR = arr.length-1;
-        int maxC = arr[0].length-1;
-
-        int tne = rows * column;
-        int count = 0;
-
-        while(count > 0){
-
-        //top --> left to right;
-        for (int i = minR, j = minC; j <= maxC && count > 0; j++){
-            System.out.println(arr[i][j]);
-            count--;
-        }
-        minR++;
-
-        //right --> top to bottom
-        for (int i = minR, j = maxC; i <= maxR && count > 0; i++){
-            System.out.println(arr[i][j]);
-            count--;
-        }
-        maxC--;
-
-        //bottom --> right to left
-        for (int i = maxR, j = maxC; j >= minC && count > 0; j--){
-            System.out.println(arr[i][j]);
-            count--;
-        }
-        maxC--;
-
-        //left --> bottom to top
-        for (int i = maxR, j = minC; j >= minR && count > 0; j--){
-            System.out.println(arr[i][j]);
-            count--;
-        }
-        minC++;
-
     }
-
-
-    }
-}
