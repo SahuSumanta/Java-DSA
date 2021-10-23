@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
         "FirstJava",
-        "Array/Medium"
+        "Array/Medium",
+        "LinearSearch"
     ]
 }
