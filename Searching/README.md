@@ -1,4 +1,4 @@
-## Easy
+## Easy :writing_hand:
 Square Root
 Guess Number Higher or Lower
 First Bad Version
@@ -16,7 +16,7 @@ Fair Candy Swap
 Check If N and Its Double Exist
 Special Array With X Elements Greater Than or Equal X
 Binary Search
-## Medium
+## Medium :writing_hand:
 Find First and Last Position of Element in Sorted Array
 Single Element in a Sorted Array
 Search in Rotated Sorted Array
@@ -34,7 +34,7 @@ Frequency of the Most Frequent Element
 Find the Duplicate Number
 Capacity To Ship Packages Within D Days
 4 Sum
-## Hard
+## Hard :writing_hand:
 Median of Two Sorted Arrays
 Find Minimum in Rotated Sorted Array II
 Aggressive cows
