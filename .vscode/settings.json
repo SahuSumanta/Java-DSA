@@ -2,6 +2,6 @@
     "java.project.sourcePaths": [
         "FirstJava",
         "Array/Medium",
-        "LinearSearch"
+        "Searching/Easy"
     ]
 }
