@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
+        "Searching/Easy",
         "FirstJava",
         "Array/Medium",
-        "Searching/Easy"
+        "10.Sorting/Example @KK"
     ]
 }
