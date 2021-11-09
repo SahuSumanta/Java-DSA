@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="02.FirstJava"/>
+	<classpathentry kind="src" path="03.Conditionals_loops/Easy"/>
+	<classpathentry kind="src" path="03.Conditionals_loops/Inter"/>
+	<classpathentry kind="src" path="05.Array/Easy"/>
+	<classpathentry kind="src" path="05.Array/Medium"/>
+	<classpathentry kind="src" path="06.Searching/Easy"/>
+	<classpathentry kind="src" path="06.Searching/Example @KK"/>
+	<classpathentry kind="src" path="06.Searching/Medium"/>
+	<classpathentry kind="src" path="07.Sorting/Example  @KK"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
