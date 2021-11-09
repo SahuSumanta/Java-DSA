@@ -1,8 +1,5 @@
 {
     "java.project.sourcePaths": [
-        "Searching/Easy",
-        "FirstJava",
-        "Array/Medium",
-        "10.Sorting/Example @KK"
+        "03.Conditionals_loops/Inter"
     ]
 }
