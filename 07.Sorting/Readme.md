@@ -3,10 +3,7 @@
 
 ## Easy
 - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)<br>
-<<<<<<< HEAD
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)<br>
-=======
->>>>>>> 02c29910e1ef71555115b8c7444eb9d2f6f3cdd2
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)<br>
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)<br>
