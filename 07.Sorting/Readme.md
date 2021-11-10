@@ -2,7 +2,7 @@
 # Questions
 
 ## Easy
-- [ ] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)<br>
+- [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)<br>
 - [ ] [Majority Element](https://leetcode.com/problems/majority-element/)<br>
 - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)<br>
