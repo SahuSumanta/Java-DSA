@@ -4,7 +4,7 @@
 ## Easy
 - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)<br>
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)<br>
-- [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>
 - [ ] [Missing Number](https://leetcode.com/problems/missing-number/)<br>
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)<br>
 - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)<br>
