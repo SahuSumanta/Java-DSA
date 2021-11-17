@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-class Solution {
+class Disappeared {
     public static List<Integer> findDisappearedNumbers(int[] arr) {
         int i = 0;
         while(i < arr.length){
