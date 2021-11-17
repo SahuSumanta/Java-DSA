@@ -11,5 +11,6 @@
 	<classpathentry kind="src" path="06.Searching/Medium"/>
 	<classpathentry kind="src" path="07.Sorting/Example  @KK"/>
 	<classpathentry kind="src" path="04.Function"/>
+	<classpathentry kind="src" path="07.Sorting/Easy"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

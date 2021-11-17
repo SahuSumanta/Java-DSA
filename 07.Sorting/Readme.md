@@ -29,7 +29,7 @@
 - [ ] [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)<br>
 - [ ] [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)<br>
 - [ ] [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)<br>
-- [ ] [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)<br>
+- [x] [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)<br>
 - [ ] [Set Mismatch](https://leetcode.com/problems/set-mismatch/)<br>
 - [ ] [2Sum](https://leetcode.com/problems/two-sum/)<br>
 
