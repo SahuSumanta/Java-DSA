@@ -44,7 +44,7 @@
 - [ ] [Sort List](https://leetcode.com/problems/sort-list/)<br>
 - [ ] [Largest Number](https://leetcode.com/problems/largest-number/)<br>
 - [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
-- [ ] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)<br>
+- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)<br>
 - [ ] [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)<br>
 
 ## Hard
