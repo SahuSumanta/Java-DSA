@@ -3,10 +3,25 @@ import java.util.Arrays;
 public class Main{
     public static void main(String[] args) {
         int[] arr = {5,3,4,1,2};
-        bubble(arr);
-        selection(arr);
-        instertion(arr);
+        // bubble(arr);
+        // selection(arr);
+        // instertion(arr);
+        cyclicsort(arr);
         System.out.println(Arrays.toString(arr));
+        
+    }
+
+    //Cyclic Sort
+    static void cyclicsort(int[] arr){
+        int i = 0;
+        while(i < arr.length){
+            int check = arr[i]-1;
+            if(arr[i] != arr[check]){
+                swap(arr, i, check);
+            }else{
+                i++;
+            }
+        }
         
     }
 
