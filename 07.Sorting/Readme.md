@@ -5,7 +5,7 @@
 - [x] [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)<br>
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)<br>
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>
-- [x] [Missing Number](https://leetcode.com/problems/missing-number/)<br>
+- [x] (Cyclic Sort) [Missing Number](https://leetcode.com/problems/missing-number/)<br>
 - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)<br>
 - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)<br>
 - [ ] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)<br>
@@ -29,8 +29,8 @@
 - [ ] [Can Make Arithmetic Progression From Sequence](https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/)<br>
 - [ ] [Sort Array by Increasing Frequency](https://leetcode.com/problems/sort-array-by-increasing-frequency/)<br>
 - [ ] [Special Array With X Elements Greater Than or Equal X](https://leetcode.com/problems/special-array-with-x-elements-greater-than-or-equal-x/)<br>
-- [x] [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)<br>
-- [ ] [Set Mismatch](https://leetcode.com/problems/set-mismatch/)<br>
+- [x] (Cyclic Sort) [Find all numbers disappeared in an array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/)<br>
+- [x] (Cyclic Sort) [Set Mismatch](https://leetcode.com/problems/set-mismatch/)<br>
 - [ ] [2Sum](https://leetcode.com/problems/two-sum/)<br>
 
 ## Medium
@@ -44,8 +44,8 @@
 - [ ] [Sort List](https://leetcode.com/problems/sort-list/)<br>
 - [ ] [Largest Number](https://leetcode.com/problems/largest-number/)<br>
 - [ ] [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)<br>
-- [x] [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)<br>
-- [ ] [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)<br>
+- [x] (Cyclic Sort) [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/)<br>
+- [x] (Cyclic Sort) [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)<br>
 
 ## Hard
-- [ ] [First missing Positive](https://leetcode.com/problems/first-missing-positive/)<br>
+- [x] (Cyclic Sort) [First missing Positive](https://leetcode.com/problems/first-missing-positive/)<br>
