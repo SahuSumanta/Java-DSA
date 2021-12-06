@@ -1,7 +1,23 @@
-# DSA :+1: JAVA :brain:
-## :arrow_right: Solution In Progress
+<p align="center">
+  <a href="https://github.com/SahuSumanta/Java-DSA/"><img src="https://i.imgur.com/mDXzzNp.png" width="300" title="LeetCode" alt="LeetCode"></a>
+</p>
 
-# :red_circle: Contribute
+
+
+# LeetCode Solutions
+
+## Getting Started
+
+In this repository, I'll work on solutions to DSA Bootcamp by @KunalKushwaha [LeetCode](https://leetcode.com/problemset/all/) problems by Java as much as I could.
+
+
+## More Information
+
+The repository is still under construction, and the goal is to keep up with the growth of LeetCode problems .
+
+For more information, please visit my [**GitHub**](https://github.com/SahuSumanta/Java-DSA).
+
+
 
 
 # Contibuters
