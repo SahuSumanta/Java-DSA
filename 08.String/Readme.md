@@ -6,7 +6,7 @@
 - [x] [Defanging an Ip address](https://leetcode.com/problems/defanging-an-ip-address/)
 - [x] [Shuffle String](https://leetcode.com/problems/shuffle-string/)
 - [x] [Goal Parser Interpretation](https://leetcode.com/problems/goal-parser-interpretation/)
-- [ ] [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
+- [x] [Count Items Matching a rule](https://leetcode.com/problems/count-items-matching-a-rule/)
 - [ ] [Sorting the Sentence](https://leetcode.com/problems/sorting-the-sentence/)
 - [ ] [Check if two strings are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
 - [ ] [To Lower Case](https://leetcode.com/problems/to-lower-case/)
