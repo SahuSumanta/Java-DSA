@@ -1,10 +1,6 @@
-<p align="center">
-  <a href="https://github.com/SahuSumanta/Java-DSA/"><img src="https://i.imgur.com/mDXzzNp.png" width="300" title="LeetCode" alt="LeetCode"></a>
-</p>
 
+![DSA-Bootcamp-Java](https://socialify.git.ci/SahuSumanta/Java-DSA/image?description=1&descriptionEditable=In%20this%20repository%2C%20I%27ll%20work%20on%20solutions%20to%20DSA%20Bootcamp%20by%20%40kunalkushwaha&font=Source%20Code%20Pro&forks=1&issues=1&language=1&pulls=1&stargazers=1&theme=Dark)
 
-
-# LeetCode Solutions
 
 ## Getting Started
 
