@@ -5,12 +5,12 @@ public class OnetoN {
             return;
         }
         printNos(n-1);
-        System.out.println(n);
+        System.out.print(n+" ");
         
     }
 
     public static void main(String[] args) {
-       int n = 10;
+       int n = 64;
        printNos(n);
     }
 }
