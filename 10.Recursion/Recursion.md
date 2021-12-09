@@ -5,7 +5,7 @@
 ## Easy
 - [ ] [Sum Triangle from Array](https://www.geeksforgeeks.org/sum-triangle-from-array/) `GFG`
 - [ ] [Maximum and Minimum value in an array](https://www.geeksforgeeks.org/recursive-programs-to-find-minimum-and-maximum-elements-of-array/) `GFG`
-- [ ] [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
+- [x] [Binary Search using recursion](https://leetcode.com/problems/binary-search/) `leetcode`
 - [ ] [First Uppercase Letter in a String](https://www.geeksforgeeks.org/first-uppercase-letter-in-a-string-iterative-and-recursive/) `GFG`
 - [ ] [Reverse String](https://leetcode.com/problems/reverse-string/) `leetcode`
 - [x] [Print 1 To N Without Loop](https://practice.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1/) `GFG`
@@ -15,7 +15,7 @@
 - [ ] [Geek-onacci Number](https://practice.geeksforgeeks.org/problems/geek-onacci-number/0/) `GFG`
 - [ ] [Recursive Bubble Sort](https://www.geeksforgeeks.org/recursive-bubble-sort/) `GFG`
 - [ ] [Recursive Insertion Sort](https://www.geeksforgeeks.org/recursive-insertion-sort/) `GFG`
-- [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
+- [ ] [Sum of digit of a number using Recursion](https://www.geeksforgeeks.org/sum-digit-number-using-recursion/) `GFG`
 - [ ] [Product of two numbers using Recursion](https://www.geeksforgeeks.org/product-2-numbers-using-recursion/) `GFG`
 - [ ] [Check Prime or not](https://www.geeksforgeeks.org/recursive-program-prime-number/) `GFG`
 - [ ] [Sum of Natural numbers using Recursion](https://www.geeksforgeeks.org/sum-of-natural-numbers-using-recursion/) `GFG`
