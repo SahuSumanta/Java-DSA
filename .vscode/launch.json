@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Sumanta",
+            "request": "launch",
+            "mainClass": "Sumanta",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
