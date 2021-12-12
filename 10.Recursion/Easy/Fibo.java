@@ -1,7 +1,7 @@
 public class Fibo {
     public static void main(String[] args) {
-        int ans = fibo(5);
-        System.out.println(ans);
+        //int ans = fibo(5);
+        System.out.println(fibo(5));
     }
 
     static int fibo(int n) {
