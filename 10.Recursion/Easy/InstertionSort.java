@@ -3,28 +3,26 @@ import java.util.Arrays;
 public class InstertionSort {
     
     static void iSort(int[] a, int n){
-
-        if (n == 0){
+        if (n <= 1){
             return;
         }
 
-        for (int i = 0; i < a.length-1; i++) {
-            for (int j = i+1; j < a.length; j++) {
-                if(a[j] < a[i] ){
-                    int temp = a[j];
-                        a[j] = a[i];
-                        a[i] = temp;
-                }
-            }
-        }
-
+        //sort the n-1 elemrnts
         iSort(a, n-1);
+        int last = a[n-1];// Insert last element at its correct position // in sorted array.
+        int i = n-2;  
+
+        while (i >= 0 && a[i] > last) {
+            a[i+1] = a[i];
+            i--;
+        }
+        a[i+1] = last;
     }
 
     public static void main(String[] args) {
-        int[] arr = {9,7,6,15,17,5,10,11};
+        int[] arr = {9,21,95,32,6,85,4};
         int length = arr.length;
-        iSort(arr, length-1);
+        iSort(arr, length);
         System.out.println(Arrays.toString(arr));
     }
 }
