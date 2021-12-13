@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Reverse_string",
+            "request": "launch",
+            "mainClass": "Reverse_string",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Sumanta",
             "request": "launch",
             "mainClass": "Sumanta",
