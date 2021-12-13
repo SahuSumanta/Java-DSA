@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Bubblesort",
+            "request": "launch",
+            "mainClass": "Bubblesort",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Recursive_BubbleSort",
+            "request": "launch",
+            "mainClass": "Recursive_BubbleSort",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Reverse_string",
             "request": "launch",
             "mainClass": "Reverse_string",
