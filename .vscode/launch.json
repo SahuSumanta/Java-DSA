@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SortedArray",
+            "request": "launch",
+            "mainClass": "SortedArray",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch InstertionSort",
             "request": "launch",
             "mainClass": "InstertionSort",
