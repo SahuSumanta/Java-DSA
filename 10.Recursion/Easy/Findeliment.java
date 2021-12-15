@@ -56,6 +56,24 @@ public class Findeliment {
         
     }
 
+
+    static ArrayList<Integer> findAllIndex2(int[] arr, int target, int index){
+        ArrayList<Integer> list = new ArrayList<>();
+
+        if(index == arr.length){
+            return list;
+        }
+
+        if (arr[index] == target) {
+            list.add(index);
+        }
+
+        ArrayList<Integer> ansFromBellowcall = findAllIndex2(arr, target, index+1);
+        list.addAll(ansFromBellowcall);
+
+        return list;
+    }
+
     public static void main(String[] args) {
         int[] arr = {2,3,1,4,4,5};
         int target = 4;
@@ -68,5 +86,7 @@ public class Findeliment {
 
         ArrayList<Integer> ans = findAllIndex(arr, target, 0, list);
         System.out.println(ans);
+
+        System.out.println(findAllIndex2(arr, target, 0));
     }
 }
