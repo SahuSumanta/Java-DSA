@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RotatedBS",
+            "request": "launch",
+            "mainClass": "RotatedBS",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Findeliment",
             "request": "launch",
             "mainClass": "Findeliment",
