@@ -61,9 +61,12 @@ public class Findeliment {
         int target = 4;
         System.out.println(findindex(arr, target, 0)); // find index
         System.out.println(search(arr, target, 0)); // return true or false
+        
         //find multiple index
         findAllIndex(arr, target, 0);
         System.out.println(list);
-        System.out.println(findAllIndex(arr, target, 0, list));
+
+        ArrayList<Integer> ans = findAllIndex(arr, target, 0, list);
+        System.out.println(ans);
     }
 }
