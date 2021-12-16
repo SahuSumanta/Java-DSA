@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SelectionSort",
+            "request": "launch",
+            "mainClass": "SelectionSort",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Recursion_Pattern",
             "request": "launch",
             "mainClass": "Recursion_Pattern",
