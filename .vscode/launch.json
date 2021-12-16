@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Recursion_Pattern",
+            "request": "launch",
+            "mainClass": "Recursion_Pattern",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch RotatedBS",
             "request": "launch",
             "mainClass": "RotatedBS",
