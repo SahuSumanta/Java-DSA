@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch UniqueIntegersSum",
+            "request": "launch",
+            "mainClass": "UniqueIntegersSum",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch SelectionSort",
             "request": "launch",
             "mainClass": "SelectionSort",
