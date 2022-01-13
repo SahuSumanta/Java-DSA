@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Contains_Duplicate",
+            "request": "launch",
+            "mainClass": "Contains_Duplicate",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch MaximumSubarray",
             "request": "launch",
             "mainClass": "MaximumSubarray",

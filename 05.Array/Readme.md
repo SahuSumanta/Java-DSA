@@ -26,7 +26,7 @@
 - [ ] [Saddle Point In Matrix](https://leetcode.com/problems/lucky-numbers-in-a-matrix/)
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
-
+- [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 ### Medium
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
