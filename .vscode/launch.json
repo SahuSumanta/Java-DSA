@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MaximumSubarray",
+            "request": "launch",
+            "mainClass": "MaximumSubarray",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch UniqueIntegersSum",
             "request": "launch",
             "mainClass": "UniqueIntegersSum",
