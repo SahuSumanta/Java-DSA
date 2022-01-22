@@ -27,6 +27,7 @@
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [ ] [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/)
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 ### Medium
 - [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
 - [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
