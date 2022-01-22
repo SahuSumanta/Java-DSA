@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MissingPossitive",
+            "request": "launch",
+            "mainClass": "MissingPossitive",
+            "projectName": "01.Java-DSA-Bootcamp_e53c9f4e"
+        },
+        {
+            "type": "java",
             "name": "Launch Test",
             "request": "launch",
             "mainClass": "Test",

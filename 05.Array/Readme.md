@@ -38,5 +38,5 @@
 
 ### Hard
 - [ ] [Max Value of Equation](https://leetcode.com/problems/max-value-of-equation/)
-- [ ] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/)
+- [x] [First Missing Positive](https://leetcode.com/problems/first-missing-positive/) 'Amazon' 'Array' 'sorting' 'cyclic sort'
 - [ ] [Good Array](https://leetcode.com/problems/check-if-it-is-a-good-array/)

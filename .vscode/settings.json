@@ -1,6 +1,7 @@
 {
     "java.project.sourcePaths": [
+        "05.Array/Easy",
         "03.Conditionals_loops/Inter",
-        "05.Array/Easy"
+        "05.Array/Hard"
     ]
 }
