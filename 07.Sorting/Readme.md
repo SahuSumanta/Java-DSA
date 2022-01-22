@@ -48,4 +48,4 @@
 - [x] (Cyclic Sort) [Find all Duplicates in an array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)<br>
 
 ## Hard
-- [x] (Cyclic Sort) [First missing Positive](https://leetcode.com/problems/first-missing-positive/) 'Amazon' 'sorting' <br>
+- [x] (Cyclic Sort) [First missing Positive](https://leetcode.com/problems/first-missing-positive/) `Amazon` `Array` `cyclic sort`
