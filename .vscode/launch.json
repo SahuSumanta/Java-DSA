@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinarySearch",
+            "request": "launch",
+            "mainClass": "BinarySearch",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch MissingPossitive",
             "request": "launch",
             "mainClass": "MissingPossitive",
