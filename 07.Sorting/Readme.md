@@ -6,8 +6,8 @@
 - [x] [Majority Element](https://leetcode.com/problems/majority-element/)<br>
 - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)<br>
 - [x] (Cyclic Sort) [Missing Number](https://leetcode.com/problems/missing-number/)<br>
-- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)<br>
-- [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)<br>
+- [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)(ans already present in array and searching repo)<br> 
+- [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)(ans already present in array and searching repo)<br> 
 - [ ] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)<br>
 - [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies/)<br>
 - [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i/)<br>
