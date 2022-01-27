@@ -12,7 +12,7 @@
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [ ] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
-- [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+- [x] (HashMap)[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) `Amazon` `Bytedance` `facebook`
 - [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [ ] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [ ] [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
@@ -22,7 +22,7 @@
 ## Medium
 - [x] [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 - [x] [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/)
-- [x] \(again) [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] (again) [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
 - [ ] [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/)
 - [ ] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [ ] [Find Peak Element](https://leetcode.com/problems/find-peak-element/)
