@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ThirdMaxNum",
+            "request": "launch",
+            "mainClass": "ThirdMaxNum",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Intersection1",
             "request": "launch",
             "mainClass": "Intersection1",

@@ -8,7 +8,7 @@
 - [x] (Cyclic Sort) [Missing Number](https://leetcode.com/problems/missing-number/)<br>
 - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)(ans already present in array and searching repo)<br> 
 - [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)(ans already present in array and searching repo)<br> 
-- [ ] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)<br>
+- [x] [Third Maximum Number](https://leetcode.com/problems/third-maximum-number/)<br>
 - [ ] [Assign Cookies](https://leetcode.com/problems/assign-cookies/)<br>
 - [ ] [Array Partition I](https://leetcode.com/problems/array-partition-i/)<br>
 - [ ] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)<br>
