@@ -12,7 +12,7 @@
 - [x] [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 - [ ] [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/)
 - [ ] [Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)
-- [x] (HashMap)[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) `Amazon` `Bytedance` `facebook`
+- [x] (HashMap)(binary Search)[Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) `Amazon` `Bytedance` `facebook`
 - [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
 - [ ] [Fair Candy Swap](https://leetcode.com/problems/fair-candy-swap/)
 - [ ] [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
