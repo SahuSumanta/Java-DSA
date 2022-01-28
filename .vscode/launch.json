@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch DecryptString",
+            "request": "launch",
+            "mainClass": "DecryptString",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Validpalindrom2",
             "request": "launch",
             "mainClass": "Validpalindrom2",
