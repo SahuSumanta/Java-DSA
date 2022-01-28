@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SplitStringPalindrom",
+            "request": "launch",
+            "mainClass": "SplitStringPalindrom",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch DecryptString",
             "request": "launch",
             "mainClass": "DecryptString",
