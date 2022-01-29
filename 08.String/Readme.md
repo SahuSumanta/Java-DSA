@@ -38,7 +38,7 @@
 - [ ] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
 - [ ] [Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)
 - [ ] [Swap Adjacent in LR String](https://leetcode.com/problems/swap-adjacent-in-lr-string/)
-- [ ] [Multiply Strings](https://leetcode.com/problems/multiply-strings/)
+- [x] (VIMP)[Multiply Strings](https://leetcode.com/problems/multiply-strings/) `amazon` `Apple` `Bytedance` `Expedia` `faceboook` `google` `Mathworks` `Microsoft` `oracle` `square` `twitter` `uber` `zillow`
 - [ ] [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/)
 - [ ] [Minimum Length of String After Deleting Similar Ends](https://leetcode.com/problems/minimum-length-of-string-after-deleting-similar-ends/)
 - [ ] [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/)

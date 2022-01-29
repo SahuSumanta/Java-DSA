@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch MultiplyStrings",
+            "request": "launch",
+            "mainClass": "MultiplyStrings",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch SplitStringPalindrom",
             "request": "launch",
             "mainClass": "SplitStringPalindrom",
