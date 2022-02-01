@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch NextGreaterElement3",
+            "request": "launch",
+            "mainClass": "NextGreaterElement3",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch MultiplyStrings",
             "request": "launch",
             "mainClass": "MultiplyStrings",
