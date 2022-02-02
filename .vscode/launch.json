@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch NewtonSQRT",
+            "request": "launch",
+            "mainClass": "NewtonSQRT",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch BinarySearchSQRT",
+            "request": "launch",
+            "mainClass": "BinarySearchSQRT",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch SetBit",
             "request": "launch",
             "mainClass": "SetBit",

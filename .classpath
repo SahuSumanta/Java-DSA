@@ -17,5 +17,6 @@
 	<classpathentry kind="src" path="09.Patterns"/>
 	<classpathentry kind="src" path="08.String/Medium"/>
 	<classpathentry kind="src" path="11.Bitwise/Example"/>
+	<classpathentry kind="src" path="12.Math/Example"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
