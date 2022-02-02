@@ -6,6 +6,62 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SetBit",
+            "request": "launch",
+            "mainClass": "SetBit",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch MagicNumber",
+            "request": "launch",
+            "mainClass": "MagicNumber",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumberOfDigits",
+            "request": "launch",
+            "mainClass": "NumberOfDigits",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch OddEven",
+            "request": "launch",
+            "mainClass": "OddEven",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch PowerOfTwo",
+            "request": "launch",
+            "mainClass": "PowerOfTwo",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Power",
+            "request": "launch",
+            "mainClass": "Power",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch RangeXor",
+            "request": "launch",
+            "mainClass": "RangeXor",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch FindUique",
+            "request": "launch",
+            "mainClass": "FindUique",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch NextGreaterElement3",
             "request": "launch",
             "mainClass": "NextGreaterElement3",
