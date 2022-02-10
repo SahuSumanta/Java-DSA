@@ -12,8 +12,8 @@
 - [x] [To Lower Case](https://leetcode.com/problems/to-lower-case/)
 - [x] [Determine if string halves are alike](https://leetcode.com/problems/determine-if-string-halves-are-alike/)
 - [x] [Decrypt String from Alphabet to Integer Mapping](https://leetcode.com/problems/decrypt-string-from-alphabet-to-integer-mapping/) `salesforce` `quip`
-- [x] [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
-- [ ] [Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
+- [x] `1967`[Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/)
+- [x] `657`[Robot Return to Origin](https://leetcode.com/problems/robot-return-to-origin/)
 - [ ] [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)
 - [ ] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
 - [ ] [Implement strStr()](https://leetcode.com/problems/implement-strstr/)
