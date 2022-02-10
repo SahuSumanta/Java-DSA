@@ -49,7 +49,7 @@
 - [ ] [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/)
 - [ ] [Camelcase Matching](https://leetcode.com/problems/camelcase-matching/)
 - [ ] [Print Words Vertically](https://leetcode.com/problems/print-words-vertically/)
-
+- [x] [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) `Accolite` `Adobe` `Amazon` `Cisco` `Goldman Sachs` `MakeMyTrip` `MAQ` `Microsoft` `Morgan Stanley` `Paytm` `PayU` `SAP Labs` `Wipro` `Zoho`
 ## Hard
 
 - [ ] [Valid Number](https://leetcode.com/problems/valid-number/)
