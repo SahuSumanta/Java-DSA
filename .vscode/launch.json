@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Q1967",
+            "request": "launch",
+            "mainClass": "Q1967",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch ReverseWordsString",
             "request": "launch",
             "mainClass": "ReverseWordsString",
