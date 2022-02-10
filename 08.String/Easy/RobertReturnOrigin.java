@@ -1,5 +1,5 @@
 public class RobertReturnOrigin {
-    public boolean judgeCircle(String moves) {
+    public static boolean judgeCircle(String moves) {
         int x = 0;
         int y = 0;
         
@@ -14,6 +14,7 @@ public class RobertReturnOrigin {
     }
 
     public static void main(String[] args) {
-        
+        String move = "UD";
+        System.out.println(judgeCircle(move));
     }
 }

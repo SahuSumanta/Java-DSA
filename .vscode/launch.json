@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RobertReturnOrigin",
+            "request": "launch",
+            "mainClass": "RobertReturnOrigin",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Q1967",
             "request": "launch",
             "mainClass": "Q1967",
