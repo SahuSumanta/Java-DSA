@@ -18,5 +18,6 @@
 	<classpathentry kind="src" path="08.String/Medium"/>
 	<classpathentry kind="src" path="11.Bitwise/Example"/>
 	<classpathentry kind="src" path="12.Math/Example"/>
+	<classpathentry excluding="02.FirstJava/|03.Conditionals_loops/Easy/|03.Conditionals_loops/Inter/|05.Array/Easy/|05.Array/Medium/|06.Searching/Easy/|06.Searching/Example @KK/|06.Searching/Medium/|07.Sorting/Example  @KK/|04.Function/|07.Sorting/Easy/|08.String/Easy/|10.Recursion/Easy/|09.Patterns/|08.String/Medium/|11.Bitwise/Example/|12.Math/Example/" kind="src" path=""/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

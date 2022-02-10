@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch solution1",
+            "request": "launch",
+            "mainClass": "solution1",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch solution",
+            "request": "launch",
+            "mainClass": "solution",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch NewtonSQRT",
             "request": "launch",
             "mainClass": "NewtonSQRT",
