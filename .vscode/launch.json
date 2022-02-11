@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ImplementstrStr",
+            "request": "launch",
+            "mainClass": "ImplementstrStr",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch RobertReturnOrigin",
             "request": "launch",
             "mainClass": "RobertReturnOrigin",
