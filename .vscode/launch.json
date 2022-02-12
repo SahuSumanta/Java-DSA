@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BinaryAdd",
+            "request": "launch",
+            "mainClass": "BinaryAdd",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch AddBinary",
+            "request": "launch",
+            "mainClass": "AddBinary",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch MergeSort",
             "request": "launch",
             "mainClass": "MergeSort",
