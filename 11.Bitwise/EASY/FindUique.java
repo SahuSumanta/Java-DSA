@@ -4,6 +4,8 @@ public class FindUique {
         System.out.println(ans(arr));
     }
 
+    //Xor all the eliment 
+
     private static int ans(int[] arr) {
         int unique = 0;
 
