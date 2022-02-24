@@ -5,7 +5,7 @@
 - [x] `136`[Single Number](https://leetcode.com/problems/single-number/)
 - [x] [Reverse Bits](https://leetcode.com/problems/reverse-bits/) `Nvidia` `HCl` `Amazon`
 - [ ] [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/)
-- [ ] [Counting Bits](https://leetcode.com/problems/counting-bits/)
+- [x] [Counting Bits](https://leetcode.com/problems/counting-bits/)
 - [ ] [Binary Watch](https://leetcode.com/problems/binary-watch/)
 - [ ] [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 - [ ] [Number Complement](https://leetcode.com/problems/number-complement/)
