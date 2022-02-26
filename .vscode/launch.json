@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Armstrong",
             "request": "launch",
             "mainClass": "Armstrong",
