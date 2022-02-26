@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch RomantoInt",
+            "request": "launch",
+            "mainClass": "RomantoInt",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Factorial",
             "request": "launch",
             "mainClass": "Factorial",

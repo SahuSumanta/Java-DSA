@@ -2,7 +2,7 @@
 - Click on [*Show problem tags*](https://leetcode.com/tag/math/) and do the questions that contains tags of topics we have covered so far.
 
 ## Easy
-- [ ] [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/)
+- [x] [Roman to Integer.](https://leetcode.com/problems/roman-to-integer/) `Adobe` `Amazon` `Apple` `Bloomberg` `Facebook` `Goldman` `Sachs` `Google` `LinkedIn` `Microsoft` `Oracle` `Qualtrics` `Roblox` `Uber` `Yahoo`
 - [ ] [Happy Number.](https://leetcode.com/problems/happy-number/)
 - [x] [Armstrong Numbers ](https://practice.geeksforgeeks.org/problems/armstrong-numbers2727/1/?category[]=Mathematical&category[]=Mathematical&page=2&query=category[]Mathematicalpage2category[]Mathematical) `oracle` `VmWare`
 - [ ] [Power of Four](https://leetcode.com/problems/power-of-four/)
