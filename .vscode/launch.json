@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Armstrong",
+            "request": "launch",
+            "mainClass": "Armstrong",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch BinaryAdd",
             "request": "launch",
             "mainClass": "BinaryAdd",
