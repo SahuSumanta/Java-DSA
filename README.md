@@ -6,10 +6,13 @@
 
 In this repository, I'll work on solutions to DSA Bootcamp by @KunalKushwaha [LeetCode](https://leetcode.com/problemset/all/) problems by Java as much as I could.
 
+## Leetcode Stats
+![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=SumantaSahu&theme=dark)
+
 
 ## More Information
 
-The repository is still under construction, and the goal is to keep up with the growth of LeetCode problems .
+The repository is still under progress, and the goal is to keep up with the growth of LeetCode problems .
 
 For more information, please visit my [**GitHub**](https://github.com/SahuSumanta/Java-DSA).
 
