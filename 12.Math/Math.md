@@ -15,7 +15,7 @@
 - [ ] [Power of Two](https://leetcode.com/problems/power-of-two/)
 
 ## Medium
-- [ ] [Integer to Roman](https://leetcode.com/problems/integer-to-roman/)
+- [x] [Integer to Roman](https://leetcode.com/problems/integer-to-roman/) `Adobe` `Amazon` `Apple` `BlackRock` `Bloomberg` `Evernote` `Facebook` `Google` `LinkedIn` `Microsoft` `Oracle` `Twitter` `Yahoo`
 - [ ] [Unique Paths](https://leetcode.com/problems/unique-paths/)
 - [ ] [Gray Code](https://leetcode.com/problems/gray-code/)
 - [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
