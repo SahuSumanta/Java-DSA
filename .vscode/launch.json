@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch SubSequences",
             "request": "launch",
             "mainClass": "SubSequences",
