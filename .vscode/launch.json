@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch SubSequences",
+            "request": "launch",
+            "mainClass": "SubSequences",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch IntegerRoman",
             "request": "launch",
             "mainClass": "IntegerRoman",
