@@ -19,7 +19,7 @@
 - [x] [Unique Paths](https://leetcode.com/problems/unique-paths/) `Adobe` `Amazon` `Apple` `Bloomberg` `ByteDance` `Facebook` `GoldmanSachs` `Google` `Mathworks` `Microsoft` `Oracle` `Qualtrics` `Salesforce` `Snapchat` `Uber` `VMware` `WalmartLabs`
 - [ ] [Gray Code](https://leetcode.com/problems/gray-code/)
 - [ ] [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
-- [ ] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/)
+- [x] [Next Greater Element III](https://leetcode.com/problems/next-greater-element-iii/) `checkout String folder you find the answer there `
 - [ ] [Angle Between Hands of a Clock](https://leetcode.com/problems/angle-between-hands-of-a-clock/)
 - [ ] [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
 - [ ] [The k<sup>th</sup> Factor of n](https://leetcode.com/problems/the-kth-factor-of-n/)
