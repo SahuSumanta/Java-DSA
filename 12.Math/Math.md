@@ -8,7 +8,7 @@
 - [ ] [Power of Four](https://leetcode.com/problems/power-of-four/)
 - [x] [Factorial](https://practice.geeksforgeeks.org/problems/factorial5739/1/?category[]=Mathematical&category[]=Mathematical&page=3&query=category[]Mathematicalpage3category[]Mathematical)  `FactSet` `MAQ Software` `Morgan Stanley` `Samsung` `Wipro`
 - [ ] [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/)
-- [ ] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/)
+- [x] [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) `Amazon`
 - [ ] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [ ] [Self Dividing Numbers](https://leetcode.com/problems/self-dividing-numbers/)
 - [ ] [Add Binary](https://leetcode.com/problems/add-binary/)

@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch BasicCalc",
+            "request": "launch",
+            "mainClass": "BasicCalc",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Permutation",
             "request": "launch",
             "mainClass": "Permutation",
