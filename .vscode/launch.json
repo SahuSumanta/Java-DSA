@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "LinkedList.Example.Main",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "LinkedList.Main",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch BasicCalc",
             "request": "launch",
             "mainClass": "BasicCalc",
