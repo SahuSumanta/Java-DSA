@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch CombinationSum",
+            "request": "launch",
+            "mainClass": "Recursion.Medium.CombinationSum",
+            "projectName": "DSA-main"
+        },
+        {
+            "type": "java",
             "name": "Launch Main",
             "request": "launch",
             "mainClass": "LinkedList.Example.Main",
